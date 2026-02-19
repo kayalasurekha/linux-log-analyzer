@@ -1,0 +1,12 @@
+Log Analysis Report
+Generated on: Thu Feb 19 06:57:35 UTC 2026
+--------------------------
+Total Requests:
+0
+
+Total 500 Errors:
+0
+
+Top 5 IP Addresses:
+
+Most Common Status Code:
