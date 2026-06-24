@@ -24,4 +24,3 @@ awk '{print $4}' $LOG | sort | uniq -c | sort -nr | head -1 >> $REPORT
 
 echo ""
 echo "Report generated in report.txt"
-#uyfjgiuiyog97
